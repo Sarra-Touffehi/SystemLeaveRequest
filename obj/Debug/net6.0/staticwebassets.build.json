@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8wokcV8ur8e4LPB50bpS3foXYXsK5duTmTDzsYpDwSQ=",
+  "Source": "LeaveManagementApi",
+  "BasePath": "_content/LeaveManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
